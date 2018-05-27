@@ -1,0 +1,426 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.samukarjalainen.com" resolutions="1x" timestamp="1527448375228">
+  <folder name="css">
+    <file name="site_global.css" crc="4079350990"/>
+    <file name="master_sivumaster.css" crc="4124175554" ref="index"/>
+    <file name="index.css" crc="4074921113" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="malliapina.png" crc="3975538645" seo="true" mt="1481794216000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="portfolio-favicon.ico" crc="3775737190" ref="index"/>
+    <file name="malliapina.jpg" crc="3790645045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-5.svg" crc="465009175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 5_poster_.png" crc="3993986820" ref="index"/>
+    <file name="artwork-25.svg" crc="4164224795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 25_poster_.png" crc="3972738564" ref="index"/>
+    <file name="buttons down-normal.png" crc="534279262" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buttons down-rollover.png" crc="347382444" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1032-4.png" crc="320372503" ref="index"/>
+    <file name="jumalukko2-crop-u1627.jpg" crc="439833395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="malliapina-crop-u3372.jpg" crc="112198017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="usb cupwhitebg-crop-u3462.jpg" crc="432249578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imuritskene-crop-u3476.jpg" crc="3810382569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rinne_toptube_decals3-crop-u3386.jpg" crc="483398189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruukku-crop-u1636.jpg" crc="221641199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bsint_5-crop-u1591.jpg" crc="99053333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2014-03-11 091854-crop-u1582.jpg" crc="4172732141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0007-crop-u1609.jpg" crc="4228891954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kiilto236x160.jpg" crc="4028937588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kromi236x159.jpg" crc="160641389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img009-crop-u1716.jpg" crc="3806360129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img010-crop-u1725.jpg" crc="246937714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img011-crop-u1734.jpg" crc="224824500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="milston_lippa3-crop-u3083.jpg" crc="3881697651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112522-crop-u2958.jpg" crc="4023881014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0008-crop-u1678.jpg" crc="279343875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11042977_10152608200957063_7993948713795332291_n223x223.jpg" crc="265039953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monikkoweb271x216.jpg" crc="453264323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 3@05x-crop-u4939.jpg" crc="90915524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monikko banderolli-01-crop-u4420.png" crc="102136495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="it velho logo presentation247x216.png" crc="4049914941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jst aves - jst solum237x216.png" crc="221743051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thewave concept223x221.jpg" crc="3948558305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jado website showcase-crop-u4983.jpg" crc="281123385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ek-clothing (2)-crop-u5010.png" crc="222869707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo grid-01223x221.jpg" crc="11570248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jumalukko2.jpg" crc="226762548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="usb cupwhitebg.jpg" crc="4224135140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imuritskene.jpg" crc="457234282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rinne_toptube_decals3.jpg" crc="120386416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruukku.jpg" crc="4245442983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bsint_5.jpg" crc="3861767401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2014-03-11 091854.jpg" crc="461055136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0007.jpg" crc="278823113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kiilto.jpg" crc="4188249175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kromi.jpg" crc="3838016820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img009.jpg" crc="418356324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img010.jpg" crc="237212310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img011.jpg" crc="3774501960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="milston_lippa3.jpg" crc="207030863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112522.jpg" crc="238654644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0008.jpg" crc="45857318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11042977_10152608200957063_7993948713795332291_n.jpg" crc="3871872381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monikkoweb.jpg" crc="3855926509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 3@05x.jpg" crc="200180186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monikko banderolli-01.png" crc="4098012666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="it velho logo presentation.png" crc="17880981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jst aves - jst solum.png" crc="210138071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thewave concept.jpg" crc="4161135315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jado website showcase.jpg" crc="431241499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ek-clothing (2).png" crc="4105596866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo grid-01.jpg" crc="226549950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1630-4.png" crc="4050385147" ref="index"/>
+    <file name="u3375-4.png" crc="4202394945" ref="index"/>
+    <file name="u3465-4.png" crc="4269089434" ref="index"/>
+    <file name="u3479-4.png" crc="243483303" ref="index"/>
+    <file name="u3389-4.png" crc="377825581" ref="index"/>
+    <file name="u1639-4.png" crc="4006485055" ref="index"/>
+    <file name="u1594-4.png" crc="3947918799" ref="index"/>
+    <file name="u1585-4.png" crc="4066860751" ref="index"/>
+    <file name="u1612-4.png" crc="411942369" ref="index"/>
+    <file name="u1756-4.png" crc="377205304" ref="index"/>
+    <file name="u1765-4.png" crc="377205304" ref="index"/>
+    <file name="u1719-4.png" crc="176098751" ref="index"/>
+    <file name="u1728-4.png" crc="3764552445" ref="index"/>
+    <file name="u1737-4.png" crc="3789041285" ref="index"/>
+    <file name="u3086-4.png" crc="288601586" ref="index"/>
+    <file name="u2961-4.png" crc="20687657" ref="index"/>
+    <file name="u1681-4.png" crc="3774567409" ref="index"/>
+    <file name="u4072-4.png" crc="3861186360" ref="index"/>
+    <file name="u4456-4.png" crc="257156320" ref="index"/>
+    <file name="u4945-4.png" crc="3936248266" ref="index"/>
+    <file name="u4426-4.png" crc="3936248266" ref="index"/>
+    <file name="u4524-4.png" crc="4025898328" ref="index"/>
+    <file name="u4903-4.png" crc="3998779525" ref="index"/>
+    <file name="u5397-4.png" crc="272395297" ref="index"/>
+    <file name="u4989-4.png" crc="109457826" ref="index"/>
+    <file name="u5016-4.png" crc="94462725" ref="index"/>
+    <file name="u5350-4.png" crc="250861771" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="buttons downblack-normal.png" crc="3973798808" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buttons downblack-rollover.png" crc="356465664" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2605-4.png" crc="506104626" ref="index"/>
+    <file name="2014-02-03 153830-crop-u2573.jpg" crc="358604922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="korunaulakko-crop-u2569.jpg" crc="186652761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pallero-crop-u2571.jpg" crc="513803483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokerchip-crop-u2567.jpg" crc="79410556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruokakuppi-crop-u2575.jpg" crc="345427717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naulakko205x364.jpg" crc="329981083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2014-02-03 153830.jpg" crc="295156232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="korunaulakko.jpg" crc="3827467186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pallero.jpg" crc="384089998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokerchip.jpg" crc="4212812130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruokakuppi.jpg" crc="51991395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naulakko.jpg" crc="3765852635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2586-4.png" crc="4012930868" ref="index"/>
+    <file name="u2585-4.png" crc="66303128" ref="index"/>
+    <file name="u2587-4.png" crc="4229404492" ref="index"/>
+    <file name="u2582-4.png" crc="264360292" ref="index"/>
+    <file name="u2583-4.png" crc="4149290465" ref="index"/>
+    <file name="u4006-4.png" crc="450163522" ref="index"/>
+    <file name="u2644-4.png" crc="4133224065" ref="index"/>
+    <file name="saarekepöytä-crop-u2655.jpg" crc="368947520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lamppu keyshot skene10-crop-u2651.jpg" crc="4156503168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uurna-crop-u2653.jpg" crc="36929272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="venetila jejee388-crop-u2649.jpg" crc="3848622466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ketju-crop-u3024.jpg" crc="529467498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nallu-crop-u3033.jpg" crc="217256092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rättikubb-crop-u3042.jpg" crc="479555837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled3-crop-u3056.jpg" crc="3907506226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled16-crop-u2986.jpg" crc="305183163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="earth_render-crop-u3169.jpg" crc="379063476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lounge_render_composed-crop-u3183.jpg" crc="535010517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="livingroom2-crop-u3953.jpg" crc="39285773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poolballs-crop-u3512.jpg" crc="4058535510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rikkaimuri-crop-u3526.jpg" crc="4018282367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saarekepöytä.jpg" crc="40018429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lamppu keyshot skene10.jpg" crc="374400997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uurna.jpg" crc="4163371023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="venetila jejee388.jpg" crc="138362161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ketju.jpg" crc="3945074948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nallu.jpg" crc="4195583369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rättikubb.jpg" crc="3843051239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled3.jpg" crc="4158011764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled16.jpg" crc="236878490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="earth_render.jpg" crc="4187682595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lounge_render_composed.jpg" crc="267285412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="livingroom2.jpg" crc="3764044846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poolballs.jpg" crc="4017132046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rikkaimuri.jpg" crc="4223774241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2670-4.png" crc="4060767956" ref="index"/>
+    <file name="u2669-4.png" crc="3951404865" ref="index"/>
+    <file name="u2671-4.png" crc="4082108207" ref="index"/>
+    <file name="u2672-4.png" crc="4190383339" ref="index"/>
+    <file name="u3027-4.png" crc="21440493" ref="index"/>
+    <file name="u3036-4.png" crc="21440493" ref="index"/>
+    <file name="u3045-4.png" crc="21440493" ref="index"/>
+    <file name="u3059-4.png" crc="177755326" ref="index"/>
+    <file name="u2989-4.png" crc="495846072" ref="index"/>
+    <file name="u3172-4.png" crc="58330150" ref="index"/>
+    <file name="u3186-4.png" crc="4280879886" ref="index"/>
+    <file name="u3959-4.png" crc="3816645037" ref="index"/>
+    <file name="u3515-4.png" crc="241136369" ref="index"/>
+    <file name="u3529-4.png" crc="477662859" ref="index"/>
+    <file name="u2555-4.png" crc="51286663" ref="index"/>
+    <file name="duunari.jpg" crc="335182688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5521.png" crc="3956610663" ref="index"/>
+    <file name="u5521-r.png" crc="340230099" ref="index"/>
+    <file name="u5521-m.png" crc="4025003628" ref="index"/>
+    <file name="2015-08-24 1545.jpg" crc="3955060166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fillaripelle.png" crc="3814483196" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2-layer 5 copy 4.png" crc="4042559130" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2-layer 5 copy.png" crc="106674231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-6.svg" crc="525266296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 6_poster_.png" crc="3877244625" ref="index"/>
+    <file name="buttons up-normal.png" crc="345468013" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buttons up-rollover.png" crc="4081784192" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-26.svg" crc="4152046174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 26_poster_.png" crc="276630151" ref="index"/>
+    <file name="artwork-20.svg" crc="202128583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 20_poster_.png" crc="414202615" ref="index"/>
+  </folder>
+  <file name="index.html" crc="322961481" seo="true" mt="1527446217029" redirect="true"/>
+</manifest>
