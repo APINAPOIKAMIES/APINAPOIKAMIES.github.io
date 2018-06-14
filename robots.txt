@@ -1,5 +1,5 @@
 User-agent: Googlebot
-Disallow: /nogooglebot/
+Disallow: /google4733a96bc2100172.html
 
 User-agent: *
 Allow: /
