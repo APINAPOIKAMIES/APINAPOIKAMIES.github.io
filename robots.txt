@@ -1,1 +1,7 @@
-http://samukarjalainen.com/google4733a96bc2100172.html
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.samukarjalainen.com/sitemap.xml
